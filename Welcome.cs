@@ -9,7 +9,7 @@ namespace Monsters
     class Welcome
     {
         public Welcome(){
-			
+			Console.WriteLine("Welcome!");
 		}
     }
 }
