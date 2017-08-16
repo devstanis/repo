@@ -11,7 +11,12 @@ namespace Monsters
         public Wau(){
 			Console.WriteLine("Whau!");
 			Console.WriteLine("2Whau!");
+			Console.WriteLine("3Whau!");
+			Console.WriteLine("4Whau!");
+			Console.WriteLine("5Whau!");
+			Console.WriteLine("6Whau!");
 			Console.ReadKey();
+			
 		}
     }
 }
