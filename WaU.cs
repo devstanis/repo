@@ -9,7 +9,7 @@ namespace Monsters
     class Wau
     {
         public Wau(){
-			Console.WriteLine("Whau!");
+			Console.WriteLine("Whau!;;;;");
 		}
     }
 }
